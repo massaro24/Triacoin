@@ -2,7 +2,7 @@
 
 ## Usage
 
-Full documentation for the Ethereum Name Service [can be found as EIP 137](https://github.com/ethereum/EIPs/issues/137).
+Full documentation for the Triacoin Name Service [can be found as EIP 137](https://github.com/triacoin-project/triacoin/EIPs/issues/137).
 This package offers a simple binding that streamlines the registration of arbitrary UTF8 domain names to swarm content hashes.
 
 ## Development
